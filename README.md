@@ -262,7 +262,7 @@ mimic-stroke-prediction/
 
 ## Course
 
-**ISE 535: Advanced Topics in Data Analytics** — Fall 2025  
+**ISE 535: Data Mining** — Fall 2025  
 USC Viterbi School of Engineering  
 Instructor: Prof. Maryam Pishgar
 
